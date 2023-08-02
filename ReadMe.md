@@ -1,4 +1,11 @@
-Steps to setup this project 
+Steps to setup this project ,
+
+open this folder using cmd or powershell or with vs code
+Requirements:
+
+a.) your computer must have node installed on it
+b.) your computer must have mongodb installed on it
+
 
 1.Firstly , navigate to the backend folder by using the command :
 cd ./backend

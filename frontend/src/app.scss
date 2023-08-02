@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.app{
+    height: 100vh;
+    .file-input-div {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.file-input-div p {
+  margin: 0;
+}
+
+.file-input-div:hover {
+  background-color: #f0f0f0;
+}
+ 
+}
